@@ -1,0 +1,11 @@
+C:\Users\Nahuel\Desktop\Andreani Alumni\C#\Desafios\Desafio-5\Ejercicio-1\obj\Debug\Ejercicio-1.csproj.AssemblyReference.cache
+C:\Users\Nahuel\Desktop\Andreani Alumni\C#\Desafios\Desafio-5\Ejercicio-1\obj\Debug\Ejercicio-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nahuel\Desktop\Andreani Alumni\C#\Desafios\Desafio-5\Ejercicio-1\obj\Debug\Ejercicio_1.Form1.resources
+C:\Users\Nahuel\Desktop\Andreani Alumni\C#\Desafios\Desafio-5\Ejercicio-1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+C:\Users\Nahuel\Desktop\Andreani Alumni\C#\Desafios\Desafio-5\Ejercicio-1\obj\Debug\Ejercicio-1.csproj.GenerateResource.cache
+C:\Users\Nahuel\Desktop\Andreani Alumni\C#\Desafios\Desafio-5\Ejercicio-1\obj\Debug\Ejercicio-1.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\Andreani Alumni\C#\Desafios\Desafio-5\Ejercicio-1\bin\Debug\Ejercicio-1.exe.config
+C:\Users\Nahuel\Desktop\Andreani Alumni\C#\Desafios\Desafio-5\Ejercicio-1\bin\Debug\Ejercicio-1.exe
+C:\Users\Nahuel\Desktop\Andreani Alumni\C#\Desafios\Desafio-5\Ejercicio-1\bin\Debug\Ejercicio-1.pdb
+C:\Users\Nahuel\Desktop\Andreani Alumni\C#\Desafios\Desafio-5\Ejercicio-1\obj\Debug\Ejercicio-1.exe
+C:\Users\Nahuel\Desktop\Andreani Alumni\C#\Desafios\Desafio-5\Ejercicio-1\obj\Debug\Ejercicio-1.pdb

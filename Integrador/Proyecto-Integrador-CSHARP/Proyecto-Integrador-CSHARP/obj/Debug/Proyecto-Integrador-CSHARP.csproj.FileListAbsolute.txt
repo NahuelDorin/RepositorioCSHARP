@@ -1,0 +1,8 @@
+C:\Users\fsantamaria\source\repos\Proyecto-Integrador-CSHARP\Proyecto-Integrador-CSHARP\obj\Debug\Proyecto-Integrador-CSHARP.csproj.AssemblyReference.cache
+C:\Users\fsantamaria\source\repos\Proyecto-Integrador-CSHARP\Proyecto-Integrador-CSHARP\obj\Debug\Proyecto-Integrador-CSHARP.csproj.SuggestedBindingRedirects.cache
+C:\Users\fsantamaria\source\repos\Proyecto-Integrador-CSHARP\Proyecto-Integrador-CSHARP\obj\Debug\Proyecto-Integrador-CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\fsantamaria\source\repos\Proyecto-Integrador-CSHARP\Proyecto-Integrador-CSHARP\bin\Debug\Proyecto-Integrador-CSHARP.exe.config
+C:\Users\fsantamaria\source\repos\Proyecto-Integrador-CSHARP\Proyecto-Integrador-CSHARP\bin\Debug\Proyecto-Integrador-CSHARP.exe
+C:\Users\fsantamaria\source\repos\Proyecto-Integrador-CSHARP\Proyecto-Integrador-CSHARP\bin\Debug\Proyecto-Integrador-CSHARP.pdb
+C:\Users\fsantamaria\source\repos\Proyecto-Integrador-CSHARP\Proyecto-Integrador-CSHARP\obj\Debug\Proyecto-Integrador-CSHARP.exe
+C:\Users\fsantamaria\source\repos\Proyecto-Integrador-CSHARP\Proyecto-Integrador-CSHARP\obj\Debug\Proyecto-Integrador-CSHARP.pdb
